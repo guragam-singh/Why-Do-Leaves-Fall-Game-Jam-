@@ -67,6 +67,6 @@
         "*.sln": "*.csproj",
         "*.slnx": "*.csproj"
     },
-    "dotnet.defaultSolution": "123456.slnx",
+    "dotnet.defaultSolution": "Why do leaves Fall Game Jam.slnx",
     "dotnet.enableWorkspaceBasedDevelopment": false
 }
